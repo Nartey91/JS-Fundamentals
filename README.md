@@ -1,0 +1,4 @@
+Summary of What You Worked On: This month, I focused on mastering JavaScript fundamentals by completing the ALX SE curriculum exercises, including handling command-line arguments, understanding variables and constants, and working with Node.js environment.
+Your Achievements: Successfully completed all tasks for the JavaScript fundamentals module, fixed Git and Node.js setup issues on my Windows machine, learned to write clean, modular scripts and push them to GitHub.
+Learnings from Failures or Challenges: Struggled initially with running JavaScript code in the right environment, confusing Bash commands with JS code execution, faced Git commit issues because files weren’t staged properly.,learned the importance of properly configuring Git user info to avoid commit errors.
+Monthly Highlights: Completed and pushed my first fully functional scripts that passed all automated checks and gained confidence using Git Bash and Node.js on Windows.
